@@ -2,3 +2,4 @@
 .gradle
 .idea
 #테스
+application-oauth.properties
