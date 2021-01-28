@@ -1,4 +1,53 @@
+kod/springboot/config/auth/SecurityConfig.java
+ kod.springboot.config.auth.SecurityConfig
+kod/springboot/domain/user/Role.java
+ kod.springboot.domain.user.Role
+kod/springboot/web/dto/PostsUpdateRequestDto.java
+ kod.springboot.web.dto.PostsUpdateRequestDto
+ kod.springboot.web.dto.PostsUpdateRequestDto$PostsUpdateRequestDtoBuilder
+kod/springboot/web/dto/PostsResponseDto.java
+ kod.springboot.web.dto.PostsResponseDto
+kod/springboot/config/auth/dto/OAuthAttributes.java
+ kod.springboot.config.auth.dto.OAuthAttributes
+ kod.springboot.config.auth.dto.OAuthAttributes$OAuthAttributesBuilder
+kod/springboot/config/auth/dto/SessionUser.java
+ kod.springboot.config.auth.dto.SessionUser
+kod/springboot/service/posts/PostsService.java
+ kod.springboot.service.posts.PostsService
+kod/springboot/domain/posts/Posts.java
+ kod.springboot.domain.posts.Posts
+ kod.springboot.domain.posts.Posts$PostsBuilder
+kod/springboot/domain/user/UserRepository.java
+ kod.springboot.domain.user.UserRepository
+kod/springboot/domain/posts/PostsRepository.java
+ kod.springboot.domain.posts.PostsRepository
+kod/springboot/web/dto/HelloResponseDto.java
+ kod.springboot.web.dto.HelloResponseDto
+kod/springboot/web/PostsApiController.java
+ kod.springboot.web.PostsApiController
+kod/springboot/web/IndexController.java
+ kod.springboot.web.IndexController
+kod/springboot/domain/user/User.java
+ kod.springboot.domain.user.User
+ kod.springboot.domain.user.User$UserBuilder
+kod/springboot/web/dto/PostsSaveRequestDto.java
+ kod.springboot.web.dto.PostsSaveRequestDto
+ kod.springboot.web.dto.PostsSaveRequestDto$PostsSaveRequestDtoBuilder
+kod/springboot/web/dto/PostsListResponseDto.java
+ kod.springboot.web.dto.PostsListResponseDto
+kod/springboot/config/JpaConfig.java
+ kod.springboot.config.JpaConfig
+kod/springboot/config/auth/LoginUser.java
+ kod.springboot.config.auth.LoginUser
+kod/springboot/config/auth/LoginUserArgumentResolver.java
+ kod.springboot.config.auth.LoginUserArgumentResolver
+kod/springboot/config/WebConfig.java
+ kod.springboot.config.WebConfig
 kod/springboot/web/HelloController.java
  kod.springboot.web.HelloController
+kod/springboot/domain/BaseTimeEntity.java
+ kod.springboot.domain.BaseTimeEntity
 kod/springboot/Application.java
  kod.springboot.Application
+kod/springboot/config/auth/CustomOAuth2UserService.java
+ kod.springboot.config.auth.CustomOAuth2UserService

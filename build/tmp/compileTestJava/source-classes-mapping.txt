@@ -1,0 +1,10 @@
+kod/springboot/web/HelloControllerTest.java
+ kod.springboot.web.HelloControllerTest
+kod/springboot/web/domain/posts/PostsRepositoryTest.java
+ kod.springboot.web.domain.posts.PostsRepositoryTest
+kod/springboot/web/PostsApiControllerTest.java
+ kod.springboot.web.PostsApiControllerTest
+kod/springboot/web/IndexControllerTest.java
+ kod.springboot.web.IndexControllerTest
+kod/springboot/web/dto/HelloResponseDtoTest.java
+ kod.springboot.web.dto.HelloResponseDtoTest
