@@ -32,6 +32,6 @@ public class IndexControllerTest {
         String body = this.restTemplate.getForObject("/", String.class);
 
         //then
-        assertThat(body).contains("스프링 부트로 시작하는 웹서비스");
+        assertThat(body).contains("웹 청첩장 프로젝트");
     }
 }
