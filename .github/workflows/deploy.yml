@@ -61,7 +61,7 @@ jobs:
         run: aws s3 cp --region ap-northeast-2 kod-springboot-webservice.zip s3://$S3_BUCKET_NAME/$PROJECT_NAME/kod-springboot-webservice.zip
 
       - name: Code Deploy
-        run: aws deploy create-deployment --application-name kod-springboot-deploy --deployment-config-name CodeDeployDefault.AllAtOnce --deployment-group-name develop --s3-location bucket=$S3_BUCKET_NAME,bundleType=zip,key=$PROJECT_NAME/kod-springboot-webservice.zip
+        run: aws deploy create-deployment --application-name kod-springboot-webservice --deployment-config-name CodeDeployDefault.AllAtOnce --deployment-group-name develop --s3-location bucket=$S3_BUCKET_NAME,bundleType=zip,key=$PROJECT_NAME/kod-springboot-webservice.zip
 
 
 
