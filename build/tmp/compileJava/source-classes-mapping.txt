@@ -51,3 +51,5 @@ kod/springboot/Application.java
  kod.springboot.Application
 kod/springboot/config/auth/CustomOAuth2UserService.java
  kod.springboot.config.auth.CustomOAuth2UserService
+kod/springboot/web/ProfileController.java
+ kod.springboot.web.ProfileController

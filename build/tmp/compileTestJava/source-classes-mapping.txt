@@ -8,3 +8,7 @@ kod/springboot/web/dto/HelloResponseDtoTest.java
  kod.springboot.web.dto.HelloResponseDtoTest
 kod/springboot/web/IndexControllerTest.java
  kod.springboot.web.IndexControllerTest
+kod/springboot/web/ProfileControllerTest.java
+ kod.springboot.web.ProfileControllerTest
+kod/springboot/web/ProfileControllerUnitTest.java
+ kod.springboot.web.ProfileControllerUnitTest
