@@ -7,7 +7,7 @@ source ${ABSDIR}/profile.sh
 REPOSITORY=/home/ec2-user/app/step3
 PROJECT_NAME=kod-springboot-webservice
 
-echo "> Build 파일 복사"
+echo "> Build 파일 복 사"
 echo "> cp $REPOSITORY/zip/build/libs/*.jar $REPOSITORY"
 
 cp $REPOSITORY/zip/build/libs/*.jar $REPOSITORY/
